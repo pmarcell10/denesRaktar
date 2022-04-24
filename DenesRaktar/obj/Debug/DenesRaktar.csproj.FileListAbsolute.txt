@@ -1,0 +1,11 @@
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\bin\Debug\DenesRaktar.exe.config
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\bin\Debug\DenesRaktar.exe
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\bin\Debug\DenesRaktar.pdb
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\obj\Debug\DenesRaktar.csproj.AssemblyReference.cache
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\obj\Debug\DenesRaktar.Properties.Resources.resources
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\obj\Debug\DenesRaktar.csproj.GenerateResource.cache
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\obj\Debug\DenesRaktar.csproj.CoreCompileInputs.cache
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\obj\Debug\DenesRaktar.exe
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\obj\Debug\DenesRaktar.pdb
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\obj\Debug\DenesRaktar.AddItemForm.resources
+C:\Users\Krisz\source\repos\DenesRaktar\DenesRaktar\obj\Debug\DenesRaktar.MainForm.resources
